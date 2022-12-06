@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user1@gmail.com",
+      "password": "1234",
+      "createdAt": "11.11.2020, 17:04:58"
+    },
+    {
+      "id": 2,
+      "email": "user2@gmail.com",
+      "password": "4321",
+      "createdAt": "03.05.2018, 02:12:30"
+    },
+    {
+      "email": "velvitskakitlitnagibator2004@gmail.com",
+      "password": "123456789",
+      "createdAt": "22.11.2022, 21:16:58",
+      "id": 3
+    }
+  ],
+  "notes": [
+    {
+      "title": "My day",
+      "body": "Today I...",
+      "userId": 1,
+      "createdAt": "16.11.2022, 19:53:18",
+      "id": 1
+    },
+    {
+      "title": "Just a note",
+      "body": "Have a nice day! :)",
+      "userId": 1,
+      "createdAt": "16.11.2022, 19:56:25",
+      "id": 2
+    },
+    {
+      "title": "Note1",
+      "body": "text1",
+      "userId": 2,
+      "createdAt": "16.11.2022, 20:02:06",
+      "id": 3
+    },
+    {
+      "title": "Note2",
+      "body": "text2",
+      "userId": 2,
+      "createdAt": "16.11.2022, 20:02:12",
+      "id": 4
+    },
+    {
+      "title": "velvitskakitlitnagibator2004",
+      "body": "Senniy biy tяжки дзень. У меня было 4 пары. На немиге. Я поела в кфс, но твистер был невкусный. Я готовилась к маскальскому, я все выучила. Я вынесла мусор. Сижу у Саши.\nТеперь я знаю как редактировать, классс!\n",
+      "userId": 3,
+      "createdAt": "22.11.2022, 21:19:24",
+      "id": 5
+    }
+  ]
+}
